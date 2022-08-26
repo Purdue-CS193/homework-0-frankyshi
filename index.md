@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages - CHANGE!!!
+# Frank Shi's First CS193 Homework
+- TAs are fun
+- CLass will teach me how to get good at CS
+- Not extremely stressful
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
